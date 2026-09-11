@@ -1,0 +1,6 @@
+com/empresa/gestao/GestaoVeicularApplication.class
+com/empresa/gestao/controller/VeiculoController.class
+com/empresa/gestao/DataLoader.class
+com/empresa/gestao/service/VeiculoService.class
+com/empresa/gestao/repository/VeiculoRepository.class
+com/empresa/gestao/model/Veiculo.class

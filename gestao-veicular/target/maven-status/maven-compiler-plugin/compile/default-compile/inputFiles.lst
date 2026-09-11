@@ -1,0 +1,6 @@
+/workspaces/atv-boot/gestao-veicular/src/main/java/com/empresa/gestao/model/Veiculo.java
+/workspaces/atv-boot/gestao-veicular/src/main/java/com/empresa/gestao/GestaoVeicularApplication.java
+/workspaces/atv-boot/gestao-veicular/src/main/java/com/empresa/gestao/controller/VeiculoController.java
+/workspaces/atv-boot/gestao-veicular/src/main/java/com/empresa/gestao/repository/VeiculoRepository.java
+/workspaces/atv-boot/gestao-veicular/src/main/java/com/empresa/gestao/service/VeiculoService.java
+/workspaces/atv-boot/gestao-veicular/src/main/java/com/empresa/gestao/DataLoader.java
